@@ -1,0 +1,27 @@
+{
+  "name": "goit-nodejs-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nez5557/goit-nodejs-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nez5557/goit-nodejs-1/issues"
+  },
+  "homepage": "https://github.com/Nez5557/goit-nodejs-1#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12",
+    "webpack": "^5.53.0"
+  }
+}
