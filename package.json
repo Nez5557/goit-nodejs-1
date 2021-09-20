@@ -1,8 +1,9 @@
 {
   "name": "goit-nodejs-1",
   "version": "1.0.0",
-  "description": "",
+  "description": "all contacts - https://i.ibb.co/NsL6n26/image.png",
   "main": "index.js",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index",
@@ -23,5 +24,10 @@
   "devDependencies": {
     "nodemon": "^2.0.12",
     "yargs": "^17.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nez5557/goit-nodejs-1.git"
+  },
+  "keywords": []
 }
