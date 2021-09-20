@@ -1,6 +1,6 @@
-const { listContacts, getContactById, removeContact, addContact } = require('./contacts');
+import { listContacts, getContactById, removeContact, addContact } from './contacts';
 
-module.exports = {
+export default {
     listContacts, getContactById, removeContact, addContact
 }
 
