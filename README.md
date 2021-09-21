@@ -1,7 +1,11 @@
-all contacts -
+all contacts
+https://ibb.co/88qjwR3
 
-by id -
+by id
+https://ibb.co/c67xjzp
 
-add new contact -
+add new contact
+https://ibb.co/LQzYysQ
 
-remove contact -
+remove contact
+https://ibb.co/Vg45qCZ
